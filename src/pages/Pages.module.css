@@ -1,0 +1,39 @@
+.homeArea {
+  min-height: calc(100vh - 50px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  padding: 16px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.link {
+  text-decoration: underline;
+  color: #414afe;
+}
+
+.logarea {
+  max-width: 360px;
+}
+
+.reglink {
+  text-align: end;
+}
+
+.regAria {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 8px;
+  max-width: 280px;
+  border: 1px solid white;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}

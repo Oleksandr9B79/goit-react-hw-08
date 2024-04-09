@@ -1,0 +1,14 @@
+.inputField {
+  display: flex;
+  flex-direction: column;
+}
+
+.error {
+  font-size: 10px;
+  color: orangered;
+}
+
+.btn {
+  max-width: 80px;
+  float: right;
+}
